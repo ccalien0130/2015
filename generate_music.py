@@ -6,7 +6,7 @@ from urllib.error import URLError
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 
-# ← 用你自己的金鑰取代下面這行（要加雙引號）
+# ← 金鑰（要加雙引號）
 API_KEY = "AIzaSyD41pjpNTOBZNbb9Y5BaizeDEugqySY8oI"
 
 # 初始化 YouTube API client
